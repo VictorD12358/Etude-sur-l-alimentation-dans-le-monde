@@ -72,6 +72,10 @@ print(hausse)               # ≈ 5,8 %
 ![Distribution de la disponibilité d'origine animale](images/histogramme_viande.png)
 *Disponibilité alimentaire d'origine animale par pays*
 
+### Notebook d'analyse
+
+[Voir le notebook Jupyter](notebook/Etude_alimentation_monde.ipynb)
+
 ## Conclusion
 
 - La production mondiale pourrait théoriquement nourrir toute la planète
