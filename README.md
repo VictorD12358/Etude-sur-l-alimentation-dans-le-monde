@@ -1,4 +1,4 @@
-# Etude-sur-l-alimentation-dans-le-monde-
+# Etude-sur-l-alimentation-dans-le-monde
 
 
 Python · Jupyter · Data visualisation · Formation
